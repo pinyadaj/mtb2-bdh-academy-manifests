@@ -17,6 +17,7 @@
   
   <app>
     <name>IoT Expert Embedded World 2021 Lesson 2</name>
+    <category>BDH Academy - EAST Park (Burapha Univ. - Infineon)</category>
     <id>ew21-lesson2</id>
     <uri>https://github.com/iotexpert/ew21-lesson2</uri>
     <description>This is Lesson 2 from Embedded World 2021</description>
