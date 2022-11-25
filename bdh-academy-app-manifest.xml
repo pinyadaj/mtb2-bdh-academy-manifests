@@ -1,6 +1,6 @@
 <apps version="2.0">
  
-  <app keywords="psoc6,bdhiot">
+  <app keywords="psoc6,bdhiot" req_capabilities_v2="[cy8ckit_062s2_43012]">
    <name>BDH FreeRTOS with BDH Shell Template</name>
    <category>BDH Academy - EAST Park (Burapha Univ. - Infineon)</category>
    <id>mtb2-freertos-bdhshell-template</id>
@@ -15,7 +15,7 @@
    </versions>
   </app>
   
-  <app keywords="psoc6,bdhiot">
+  <app keywords="psoc6,bdhiot" req_capabilities_v2="[cy8ckit_062s2_43012]">
    <name>BDH IoT Connectivity Template</name>
    <category>BDH Academy - EAST Park (Burapha Univ. - Infineon)</category>
    <id>mtb2-bdh-iot-connectivity-template</id>
