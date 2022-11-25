@@ -15,19 +15,19 @@
    </versions>
   </app>
   
-  <app>
-    <name>IoT Expert Embedded World 2021 Lesson 2</name>
-    <category>BDH Academy - EAST Park (Burapha Univ. - Infineon)</category>
-    <id>ew21-lesson2</id>
-    <uri>https://github.com/iotexpert/ew21-lesson2</uri>
-    <description>This is Lesson 2 from Embedded World 2021</description>
-    <req_capabilities>psoc6</req_capabilities>
-    <versions>
-      <version flow_version="2.0">
-        <num>Latest 1.X release</num>
-        <commit>master</commit>
-      </version>
-    </versions>
+  <app keywords="psoc6,bdhiot">
+   <name>BDH IoT Connectivity Template</name>
+   <category>BDH Academy - EAST Park (Burapha Univ. - Infineon)</category>
+   <id>mtb2-bdh-iot-connectivity-template</id>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/mtb2-bdh-iot-connectivity-template</uri>
+   <description>This template provide a starting point for BDH IoT connectvity projects. </description>
+   <req_capabilities>psoc6</req_capabilities>
+   <versions>
+     <version flow_version="2.0">
+       <num>Latest 1.X release</num>
+       <commit>master</commit>
+     </version>
+   </versions>
   </app>
   
 </apps>
