@@ -4,7 +4,7 @@
   
   <app-manifest-list>
     <app-manifest>
-      <uri>https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/main/bdh-academy-app-manifest.xml</uri>
+      <uri>https://raw.githubusercontent.com/Advance-Innovation-Centre-AIC/mtb2-bdh-academy-manifests/master/bdh-academy-app-manifest.xml</uri>
       </app-manifest>
    </app-manifest-list>
   <board-manifest-list>
