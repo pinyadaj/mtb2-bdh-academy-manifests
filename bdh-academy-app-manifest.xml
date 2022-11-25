@@ -3,7 +3,7 @@
   <app keywords="psoc6,bdhiot">
    <name>BDH FreeRTOS with BDH Shell Template</name>
    <category>BDH Academy - EAST Park (Burapha Univ. - Infineon)</category>
-   <id>mtb2-freertos-ntshell-template</id>
+   <id>mtb2-freertos-bdhshell-template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/mtb2-freertos-ntshell-template</uri>
    <description>This template provide a starting point for FreeRTOS projects.  Including a starting blinking LED task and the ntshell task</description>
    <req_capabilities>psoc6</req_capabilities>
