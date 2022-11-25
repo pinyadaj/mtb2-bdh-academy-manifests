@@ -15,7 +15,7 @@
     </versions>
   </app>
   
-  <app>
+  <app keywords="psoc6,bdhiot" req_capabilities_v2="[cy8ckit_062s2_43012]">
    <name>BDH FreeRTOS NTShell Template</name>
    <id>mtb2-freertos-ntshell-template</id>
    <category>BDH Academy - EAST Park (Burapha Univ. - Infineon)</category>
