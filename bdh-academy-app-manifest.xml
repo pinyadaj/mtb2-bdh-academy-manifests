@@ -1,0 +1,31 @@
+<apps version="2.0">
+  
+  <app keywords="psoc6,bdhiot" req_capabilities_v2="[cy8ckit_062s2_43012]">
+    <name>IoT Expert FreeRTOS Template</name>
+    <id>mtb2-freertos-template</id>
+    <uri>https://github.com/Advance-Innovation-Centre-AIC/mtb2-freertos-template</uri>
+    <description>This template provide a starting point for FreeRTOS projects.  Including a starting blinking LED task</description>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="2.0">
+        <num>Latest 1.X release</num>
+        <commit>master</commit>
+      </version>
+    </versions>
+  </app>
+  
+  <app>
+   <name>BDH FreeRTOS NTShell Template</name>
+   <id>mtb2-freertos-ntshell-template</id>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/mtb2-freertos-ntshell-template</uri>
+   <description>This template provide a starting point for FreeRTOS projects.  Including a starting blinking LED task and the ntshell task</description>
+   <req_capabilities>psoc6</req_capabilities>
+   <versions>
+     <version flow_version="2.0">
+       <num>Latest 1.X release</num>
+       <commit>master</commit>
+     </version>
+   </versions>
+  </app>
+  
+</apps>
