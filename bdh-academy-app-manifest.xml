@@ -1,11 +1,11 @@
 <apps version="2.0">
  
-  <app keywords="psoc6,bdhiot">
-   <name>BDH FreeRTOS with BDH Shell - WiFi - MQTT Template</name>
+<app keywords="psoc6,bdhiot">
+   <name>BDH FreeRTOS with Capsense Slider Template</name>
    <category>BDH Academy - EAST Park (Burapha Univ. - Infineon)</category>
-   <id>mtb2-freertos-bdhshell-wifi-mqtt-template</id>
-   <uri>https://github.com/Advance-Innovation-Centre-AIC/mtb2-freertos-bdhshell-wifi-mqtt-template</uri>
-   <description>This template provide a starting point for FreeRTOS projects.  Including a starting blinking LED task , Wifi connnect, MQTT client and the BDH shell task</description>
+   <id>mtb2-bdh-freertos-capsense-template</id>
+   <uri>https://github.com/Infineon/mtb-example-psoc6-capsense-buttons-slider-freertos</uri>
+   <description>This template provide a starting point for FreeRTOS with Infineon Capsense slider and LED task. </description>
    <req_capabilities>psoc6</req_capabilities>
    <versions>
      <version flow_version="2.0">
@@ -14,13 +14,13 @@
      </version>
    </versions>
   </app>
-  
-  <app keywords="psoc6,bdhiot">
-   <name>BDH IoT Connectivity Template</name>
+ 
+ <app keywords="psoc6,bdhiot">
+   <name>BDH FreeRTOS with BDH Shell - WiFi - MQTT Template</name>
    <category>BDH Academy - EAST Park (Burapha Univ. - Infineon)</category>
-   <id>mtb2-bdh-iot-connectivity-template</id>
-   <uri>https://github.com/Advance-Innovation-Centre-AIC/mtb2-bdh-iot-connectivity-template</uri>
-   <description>This template provide a starting point for BDH IoT connectvity projects. </description>
+   <id>mtb2-freertos-bdhshell-wifi-mqtt-template</id>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/mtb2-freertos-bdhshell-wifi-mqtt-template</uri>
+   <description>This template provide a starting point for FreeRTOS projects.  Including a starting blinking LED task , Wifi connnect, MQTT client and the BDH shell task</description>
    <req_capabilities>psoc6</req_capabilities>
    <versions>
      <version flow_version="2.0">
