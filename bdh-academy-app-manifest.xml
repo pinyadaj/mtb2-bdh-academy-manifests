@@ -1,16 +1,16 @@
 <apps version="2.0">
  
   <app keywords="psoc6,bdhiot">
-   <name>BDH FreeRTOS with BDH Shell Template</name>
+   <name>BDH FreeRTOS with BDH Shell, WiFi, MQTT Template</name>
    <category>BDH Academy - EAST Park (Burapha Univ. - Infineon)</category>
-   <id>mtb2-freertos-bdhshell-template</id>
-   <uri>https://github.com/Advance-Innovation-Centre-AIC/mtb2-freertos-bdhshell-template</uri>
-   <description>This template provide a starting point for FreeRTOS projects.  Including a starting blinking LED task and the ntshell task</description>
+   <id>mtb2-freertos-bdhshell-wifi-mqtt-template</id>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/mtb2-freertos-bdhshell-wifi-mqtt-template</uri>
+   <description>This template provide a starting point for FreeRTOS projects.  Including a starting blinking LED task , Wifi connnect, MQTT client and the BDH shell task</description>
    <req_capabilities>psoc6</req_capabilities>
    <versions>
-     <version flow_version="2.0">
-       <num>Latest 1.X release</num>
-       <commit>master</commit>
+     <version flow_version="0.1">
+       <num>Latest 0.X release</num>
+       <commit>main</commit>
      </version>
    </versions>
   </app>
