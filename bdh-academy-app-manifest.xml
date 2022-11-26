@@ -1,7 +1,7 @@
 <apps version="2.0">
  
   <app keywords="psoc6,bdhiot">
-   <name>BDH FreeRTOS with BDH Shell, WiFi, MQTT Template</name>
+   <name>BDH FreeRTOS with BDH Shell - WiFi - MQTT Template</name>
    <category>BDH Academy - EAST Park (Burapha Univ. - Infineon)</category>
    <id>mtb2-freertos-bdhshell-wifi-mqtt-template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/mtb2-freertos-bdhshell-wifi-mqtt-template</uri>
