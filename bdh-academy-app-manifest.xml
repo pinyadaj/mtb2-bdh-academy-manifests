@@ -29,5 +29,20 @@
      </version>
    </versions>
   </app>
-  
+ 
+ <app keywords="psoc6,bdhiot">
+   <name>BDH BMI 160 Motion Sensor with FreeRTOS Template</name>
+   <category>BDH Academy - EAST Park (Burapha Univ. - Infineon)</category>
+   <id>mtb2-example-psoc6-bmi160-motion-sensor-freertos-template</id>
+   <uri>https://github.com/Infineon/mtb-example-psoc6-bmi160-motion-sensor-freertos</uri>
+   <description>This template provide a starting point for Bosch's BMI160 Motion sensor via i2c interfacing and FreeRTOS support.</description>
+   <req_capabilities>psoc6</req_capabilities>
+   <versions>
+     <version flow_version="2.0">
+       <num>Latest 1.X release</num>
+       <commit>master</commit>
+     </version>
+   </versions>
+  </app>
+ 
 </apps>
