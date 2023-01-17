@@ -1,5 +1,20 @@
 <apps version="2.0">
-  
+
+<app keywords="psoc6,bdhiot">
+   <name>Reading Orientation BMX160 Sensor Template</name>
+   <category>BDH Academy - EAST Park (Burapha Univ. - Infineon)</category>
+   <id>BDH_Orientation_BMX160_Sensor_template</id>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_Orientation_BMX160_Sensor_template</uri>
+   <description>This template provide a starting point for getting Orientation BMX160 Sensor. </description>
+   <req_capabilities>psoc6</req_capabilities>
+   <versions>
+     <version flow_version="2.0">
+       <num>Latest 1.X release</num>
+       <commit>master</commit>
+     </version>
+   </versions>
+ </app>
+   
 <app keywords="psoc6,bdhiot">
    <name>Reading XENSIV-DPS-3XX Pressure Sensor Template</name>
    <category>BDH Academy - EAST Park (Burapha Univ. - Infineon)</category>
