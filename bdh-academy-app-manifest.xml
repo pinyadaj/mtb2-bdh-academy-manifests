@@ -1,7 +1,7 @@
 <apps version="2.0">
  
 <app keywords="psoc6,bdhiot">
-   <name>BDH FreeRTOS with Capsense Slider Template</name>
+   <name>BDH Shell for LED Blinking and Capsense Slider Template</name>
    <category>BDH Academy - EAST Park (Burapha Univ. - Infineon)</category>
    <id>BDH_MTB_BDH-SHELL_with_Blinking_and_CAPSENSE-template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_MTB_BDH-SHELL_with_Blinking_and_CAPSENSE</uri>
