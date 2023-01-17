@@ -76,7 +76,7 @@
   </app>
  
 <app keywords="psoc6,bdhiot">
-   <name>BDH FreeRTOS with Capsense Slider Template</name>
+   <name>FreeRTOS with Capsense Slider Template</name>
    <category>BDH Academy - EAST Park (Burapha Univ. - Infineon)</category>
    <id>mtb2-bdh-freertos-capsense-template</id>
    <uri>https://github.com/Infineon/mtb-example-psoc6-capsense-buttons-slider-freertos</uri>
@@ -91,7 +91,7 @@
   </app>
  
  <app keywords="psoc6,bdhiot">
-   <name>BDH FreeRTOS with BDH Shell - WiFi - MQTT Template</name>
+   <name>FreeRTOS with BDH Shell - WiFi - MQTT Template</name>
    <category>BDH Academy - EAST Park (Burapha Univ. - Infineon)</category>
    <id>mtb2-freertos-bdhshell-wifi-mqtt-template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/mtb2-freertos-bdhshell-wifi-mqtt-template</uri>
@@ -106,7 +106,7 @@
   </app>
  
  <app keywords="psoc6,bdhiot">
-   <name>BDH Bosch BMI160 Motion Sensor with FreeRTOS Template</name>
+   <name>Bosch BMI160 Motion Sensor with FreeRTOS Template</name>
    <category>BDH Academy - EAST Park (Burapha Univ. - Infineon)</category>
    <id>mtb2-example-psoc6-bmi160-motion-sensor-freertos-template</id>
    <uri>https://github.com/Infineon/mtb-example-psoc6-bmi160-motion-sensor-freertos</uri>
@@ -121,7 +121,7 @@
   </app>
  
  <app keywords="psoc6,bdhiot">
-   <name>BDH Machine Learning - Gesture classification Template</name>
+   <name>Machine Learning - Gesture classification Template</name>
    <category>BDH Academy - EAST Park (Burapha Univ. - Infineon)</category>
    <id>mtb2-example-ml-gesture-classification-template</id>
    <uri>https://github.com/Infineon/mtb-example-ml-gesture-classification</uri>
