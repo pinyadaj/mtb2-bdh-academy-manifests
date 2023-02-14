@@ -2,7 +2,7 @@
 
 <app keywords="psoc6,bdhiot">
    <name>Reading Orientation BMX160 Sensor Template</name>
-   <category>Biil::Burapha University - Infineon Innovation Launchpad (by BDH Academy, EAST Park)</category>
+   <category>BiiL::Burapha University - Infineon Innovation Launchpad (by BDH Academy, EAST Park)</category>
    <id>BDH_Orientation_BMX160_Sensor_template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_Orientation_BMX160_Sensor_template</uri>
    <description>This template provide a starting point for getting Orientation BMX160 Sensor. </description>
@@ -17,7 +17,7 @@
    
 <app keywords="psoc6,bdhiot">
    <name>Reading XENSIV-DPS-3XX Pressure Sensor Template</name>
-   <category>Biil::Burapha University - Infineon Innovation Launchpad (by BDH Academy, EAST Park)</category>
+   <category>BiiL::Burapha University - Infineon Innovation Launchpad (by BDH Academy, EAST Park)</category>
    <id>BDH_XENSIV-DPS-3XX_pressure_sensor_template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_XENSIV-DPS-3XX_pressure_sensor_template</uri>
    <description>This template provide a starting point for getting XENSIV-DPS-3XX Pressure Sensor. </description>
@@ -32,7 +32,7 @@
  
 <app keywords="psoc6,bdhiot">
    <name>Reading ADC via HAL with Potentiometer Template</name>
-   <category>Biil::Burapha University - Infineon Innovation Launchpad (by BDH Academy, EAST Park)</category>
+   <category>BiiL::Burapha University - Infineon Innovation Launchpad (by BDH Academy, EAST Park)</category>
    <id>BDH_MTB_ADC_using_HAL_with_Potentiometer-template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_MTB_ADC_using_HAL_with_Potentiometer</uri>
    <description>This template provide a starting point for getting ADC via HAL with Potentiometer (P10_6). </description>
@@ -47,7 +47,7 @@
  
  <app keywords="psoc6,bdhiot">
    <name>Reading ADC via PDL with Potentiometer Template</name>
-   <category>Biil::Burapha University - Infineon Innovation Launchpad (by BDH Academy, EAST Park)</category>
+   <category>BiiL::Burapha University - Infineon Innovation Launchpad (by BDH Academy, EAST Park)</category>
    <id>BDH_MTB_ADC_using_PDL_with_Potentiometer-template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_MTB_ADC_using_PDL_with_Potentiometer</uri>
    <description>This template provide a starting point for getting ADC via PDL with Potentiometer (P10_6). </description>
@@ -62,7 +62,7 @@
  
 <app keywords="psoc6,bdhiot">
    <name>BDH Shell for LED Blinking and Capsense Slider Template</name>
-   <category>Biil::Burapha University - Infineon Innovation Launchpad (by BDH Academy, EAST Park)</category>
+   <category>BiiL::Burapha University - Infineon Innovation Launchpad (by BDH Academy, EAST Park)</category>
    <id>BDH_MTB_BDH-SHELL_with_Blinking_and_CAPSENSE-template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_MTB_BDH-SHELL_with_Blinking_and_CAPSENSE</uri>
    <description>This template provide a starting point for BDH Shell with Infineon Capsense slider and LED task. </description>
@@ -77,7 +77,7 @@
  
 <app keywords="psoc6,bdhiot">
    <name>FreeRTOS with Capsense Slider Template</name>
-   <category>Biil::Burapha University - Infineon Innovation Launchpad (by BDH Academy, EAST Park)</category>
+   <category>BiiL::Burapha University - Infineon Innovation Launchpad (by BDH Academy, EAST Park)</category>
    <id>mtb2-bdh-freertos-capsense-template</id>
    <uri>https://github.com/Infineon/mtb-example-psoc6-capsense-buttons-slider-freertos</uri>
    <description>This template provide a starting point for FreeRTOS with Infineon Capsense slider and LED task. </description>
@@ -92,7 +92,7 @@
  
  <app keywords="psoc6,bdhiot">
    <name>FreeRTOS with BDH Shell - WiFi - MQTT Template</name>
-   <category>Biil::Burapha University - Infineon Innovation Launchpad (by BDH Academy, EAST Park)</category>
+   <category>BiiL::Burapha University - Infineon Innovation Launchpad (by BDH Academy, EAST Park)</category>
    <id>mtb2-freertos-bdhshell-wifi-mqtt-template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/mtb2-freertos-bdhshell-wifi-mqtt-template</uri>
    <description>This template provide a starting point for FreeRTOS projects.  Including a starting blinking LED task , Wifi connnect, MQTT client and the BDH shell task</description>
@@ -107,7 +107,7 @@
  
  <app keywords="psoc6,bdhiot">
    <name>Bosch BMI160 Motion Sensor with FreeRTOS Template</name>
-   <category>Biil::Burapha University - Infineon Innovation Launchpad (by BDH Academy, EAST Park)</category>
+   <category>BiiL::Burapha University - Infineon Innovation Launchpad (by BDH Academy, EAST Park)</category>
    <id>mtb2-example-psoc6-bmi160-motion-sensor-freertos-template</id>
    <uri>https://github.com/Infineon/mtb-example-psoc6-bmi160-motion-sensor-freertos</uri>
    <description>This template provide a starting point for Bosch's BMI160 Motion sensor via i2c interfacing and FreeRTOS support.</description>
@@ -122,7 +122,7 @@
  
  <app keywords="psoc6,bdhiot">
    <name>Machine Learning - Gesture classification Template</name>
-   <category>Biil::Burapha University - Infineon Innovation Launchpad (by BDH Academy, EAST Park)</category>
+   <category>BiiL::Burapha University - Infineon Innovation Launchpad (by BDH Academy, EAST Park)</category>
    <id>mtb2-example-ml-gesture-classification-template</id>
    <uri>https://github.com/Infineon/mtb-example-ml-gesture-classification</uri>
    <description>This code example demonstrates how to perform gesture classification based on motion sensor (accelerometer and gyroscope) data. The code example comes with a pre-trained model that classifies the following gestures: circle, square, and side-to-side.</description>
