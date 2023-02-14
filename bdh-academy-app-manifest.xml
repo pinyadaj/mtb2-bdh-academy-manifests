@@ -1,6 +1,21 @@
 <apps version="2.0">
 
 <app keywords="psoc6,bdhiot">
+   <name>Stream Sensor and Audio Data via SenSiML Template</name>
+   <category>BiiL::Burapha University - Infineon Innovation Launchpad (by BDH Academy, EAST Park)</category>
+   <id>BDH_SenSiML_Stream_Sensor_Audio_Data_template</id>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/SensiML_template</uri>
+   <description>This template provide a time-series sensor data collection using SenSiML. </description>
+   <req_capabilities>psoc6</req_capabilities>
+   <versions>
+     <version flow_version="2.0">
+       <num>Latest 1.X release</num>
+       <commit>master</commit>
+     </version>
+   </versions>
+ </app>
+   
+<app keywords="psoc6,bdhiot">
    <name>Reading Orientation BMX160 Sensor Template</name>
    <category>BiiL::Burapha University - Infineon Innovation Launchpad (by BDH Academy, EAST Park)</category>
    <id>BDH_Orientation_BMX160_Sensor_template</id>
