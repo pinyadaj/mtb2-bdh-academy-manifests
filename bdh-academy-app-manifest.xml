@@ -1,5 +1,35 @@
 <apps version="2.0">
-
+   
+<app keywords="psoc6,bdhiot">
+   <name>Controlling a LED from Secure TCP Server Template</name>
+   <category>BiiL::Burapha University - Infineon Innovation Launchpad (by BDH Academy, EAST Park)</category>
+   <id>BDH_MTB_Controlling_LED_from_Secure_TCP_Server_Template</id>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_MTB_Controlling_LED_from_Secure_TCP_Server_Template</uri>
+   <description>This template show how to control a LED on TCP client from secure TCP server. </description>
+   <req_capabilities>psoc6</req_capabilities>
+   <versions>
+     <version flow_version="2.0">
+       <num>Latest 1.X release</num>
+       <commit>master</commit>
+     </version>
+   </versions>
+ </app>   
+   
+<app keywords="psoc6,bdhiot">
+   <name>Sending Button Event via MQTT and MQTTs Template</name>
+   <category>BiiL::Burapha University - Infineon Innovation Launchpad (by BDH Academy, EAST Park)</category>
+   <id>BDH_MTB_Sending_Button_Event_via_MQTT_and_MQTTs_Template</id>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_MTB_Sending_Button_Event_via_MQTT_and_MQTTs_Template</uri>
+   <description>This template show how to send a button event via MQTT and MQTTs client. </description>
+   <req_capabilities>psoc6</req_capabilities>
+   <versions>
+     <version flow_version="2.0">
+       <num>Latest 1.X release</num>
+       <commit>master</commit>
+     </version>
+   </versions>
+ </app>
+   
 <app keywords="psoc6,bdhiot">
    <name>Stream Sensor and Audio Data via SenSiML Template</name>
    <category>BiiL::Burapha University - Infineon Innovation Launchpad (by BDH Academy, EAST Park)</category>
