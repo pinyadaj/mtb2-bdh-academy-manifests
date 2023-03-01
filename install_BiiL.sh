@@ -2,11 +2,6 @@
 
 set -euo pipefail
 
-RED=$'\e[0;31m'
-GREEN=$'\e[0;32m'
-YELLOW=$'\e[0;33m'
-NC=$'\e[0m' # No Color
-
 cat << EOF
  ______    _    _   _____      __                 ______   ______   ____  ____  
 |_   _ \  (_)  (_) |_   _|    [  |               |_   _ \ |_   _ `.|_   ||   _| 
@@ -15,7 +10,7 @@ cat << EOF
  _| |__) || |  | |  _| |__/ |  |  \__/ | \ '/ /   _| |__) |_| |_.' /_| |  | |_  
 |_______/[___][___]|________| [__;.__.'[\_:  /   |_______/|______.'|____||____| 
                                         \__.'                                   
-                                        
+
 BUU-Infineon Innovation Launchpad Center 
 EAST Park, Burapha University, Chonburi, THAILAND
 
@@ -24,6 +19,14 @@ http://www.eastpark.buu.ac.th
 ===============================================================================
 
 EOF
+
+if ! command -v curl &> /dev/null; then
+    echo "curl not installed. Please install curl."
+    exit
+elif ! command -v sed &> /dev/null; then
+    echo "sed not installed. Please install sed."
+    exit
+fi
 
 # Determine the user's operating system
 OS=$(uname -s)
