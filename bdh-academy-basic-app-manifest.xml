@@ -1,11 +1,11 @@
 <apps version="2.0">
    
 <app keywords="psoc6,bdhiot">
-   <name>Controlling a LED from Secure TCP Server Template</name>
-   <category>Applied Embedded Systems Lab by AIC and BiiL</category>
+   <name>LAB100 - Hello World with LED Blinking Template</name>
+   <category>Applied Embedded Systems Lab by AIC and BiiL Center</category>
    <id>BDH_MTB_Controlling_LED_from_Secure_TCP_Server_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_MTB_Controlling_LED_from_Secure_TCP_Server_Template</uri>
-   <description>This template show how to control a LED on TCP client from secure TCP server. </description>
+   <description>This template show how to print the message and control a LED blinking. </description>
    <req_capabilities>psoc6</req_capabilities>
    <versions>
      <version flow_version="2.0">
@@ -16,11 +16,11 @@
  </app>   
    
 <app keywords="psoc6,bdhiot">
-   <name>Sending Button Event via MQTT and MQTTs Template</name>
-   <category>Applied Embedded Systems Lab by AIC and BiiL</category>
+   <name>LAB101 - USER Input and Output Controlling Template</name>
+   <category>Applied Embedded Systems Lab by AIC and BiiL Center</category>
    <id>BDH_MTB_Sending_Button_Event_via_MQTT_and_MQTTs_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_MTB_Sending_Button_Event_via_MQTT_and_MQTTs_Template</uri>
-   <description>This template show how to send a button event via MQTT and MQTTs client. </description>
+   <description>This template show how to control USER INPUT and OUTPUT (CYBSP_USER) on evaluation kit board. </description>
    <req_capabilities>psoc6</req_capabilities>
    <versions>
      <version flow_version="2.0">
