@@ -3,9 +3,9 @@
 <app keywords="psoc6,bdhiot">
    <name>LAB100 - Hello World with LED Blinking Template</name>
    <category>Applied Embedded Systems Lab by AIC and BiiL Center</category>
-   <id>BiiL_MTB-100_BASIC_GPIO_INTERFACING_Template</id>
-   <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-100_Hello_World_and_LED_Blinking_Programming_Template.git</uri>
-   <description>This template show how to print the message and control a LED blinking. </description>
+   <id>ACBiiL_MTB-100_BASIC_GPIO_INTERFING_Template</id>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-100_Hello_World_and_LED_Blinking_Programming_Template</uri>
+   <description>This template show how to print the message Hello world and control a LED blinking. </description>
    <req_capabilities>psoc6</req_capabilities>
    <versions>
      <version flow_version="2.0">
