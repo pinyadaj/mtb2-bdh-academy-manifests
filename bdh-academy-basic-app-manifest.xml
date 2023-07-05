@@ -14,7 +14,7 @@
      </version>
    </versions>
  </app>   
-<!--    
+   
 <app keywords="psoc6,bdhiot">
    <name>LAB101 - USER Input and Output Controlling Template</name>
    <category>Applied Embedded Systems Lab by AIC and BiiL Center</category>
@@ -43,6 +43,6 @@
        <commit>master</commit>
      </version>
    </versions>
- </app> -->
+ </app>
  
 </apps>
