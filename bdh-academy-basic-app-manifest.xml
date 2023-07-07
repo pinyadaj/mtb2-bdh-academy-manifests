@@ -3,7 +3,7 @@
 <app keywords="psoc6,bdhiot">
    <name>LAB100 - Hello World with LED Blinking Template</name>
    <category>Applied Embedded Systems Lab by AIC and BiiL Center</category>
-   <id>ACBiiL_MTB-100_BASIC_GPIO_INTERFING_Template</id>
+   <id>BiiL_MTB-100_BASIC_GPIO_INTERFING_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-100_Hello_World_and_LED_Blinking_Programming_Template</uri>
    <description>This template show how to print the message Hello world and control a LED blinking. </description>
    <req_capabilities>psoc6</req_capabilities>
@@ -16,10 +16,10 @@
  </app>   
    
 <app keywords="psoc6,bdhiot">
-   <name>LAB101 - USER Input and Output Controlling Template</name>
+   <name>BIIL_MTB-106_USER_POTENTIOMETER_using_ADC_via_HAL_Template</name>
    <category>Applied Embedded Systems Lab by AIC and BiiL Center</category>
-   <id>BiiL_MTB-101_USER_INPUT_OUTPUT_INTERFACING_Template</id>
-   <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_MTB_Sending_Button_Event_via_MQTT_and_MQTTs_Template</uri>
+   <id>BIIL_MTB-106_USER_POTENTIOMETER_using_ADC_via_HAL_Template</id>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-106_USER_POTENTIOMETER_using_ADC_via_HAL_Template</uri>
    <description>This template show how to control USER INPUT and OUTPUT (CYBSP_USER) on evaluation kit board. </description>
    <req_capabilities>psoc6</req_capabilities>
    <versions>
@@ -30,7 +30,7 @@
    </versions>
  </app>
 
-   <app keywords="psoc6,bdhiot">
+<!--    <app keywords="psoc6,bdhiot">
    <name>LAB102 - USER Input and Output Controlling Part II Template</name>
    <category>Applied Embedded Systems Lab by AIC and BiiL Center</category>
    <id>BiiL_MTB-102_BASIC_GPIO_INTERFACING_Template</id>
@@ -43,6 +43,6 @@
        <commit>master</commit>
      </version>
    </versions>
- </app>
+ </app> -->
  
 </apps>
