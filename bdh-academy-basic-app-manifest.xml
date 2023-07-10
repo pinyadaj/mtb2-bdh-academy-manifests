@@ -16,11 +16,11 @@
  </app>   
    
 <app keywords="psoc6,bdhiot">
-   <name>BIIL_MTB-106_USER_POTENTIOMETER_using_ADC_via_HAL_Template</name>
+   <name>BIIL_MTB-101_GPIO_LED_Blink_Template</name>
    <category>Applied Embedded Systems Lab by AIC and BiiL Center</category>
-   <id>BIIL_MTB-106_USER_POTENTIOMETER_using_ADC_via_HAL_Template</id>
-   <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-106_USER_POTENTIOMETER_using_ADC_via_HAL_Template</uri>
-   <description>This template show how to control USER INPUT and OUTPUT (CYBSP_USER) on evaluation kit board. </description>
+   <id>BIIL_MTB-101_GPIO_LED_Blink_Template</id>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-101_GPIO_LED_Blink_Template</uri>
+   <description>This template demonstrates the process of controlling an LED via GPIO on a PSoC 6 microcontroller, showcasing the LED blinking. </description>
    <req_capabilities>psoc6</req_capabilities>
    <versions>
      <version flow_version="2.0">
