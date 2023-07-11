@@ -16,11 +16,11 @@
  </app>   
    
 <app keywords="psoc6,bdhiot">
-   <name>LAB101 - GPIO LED Blink Template</name>
+   <name>LAB101 - GPIO-HAL LED Blink Template</name>
    <category>Applied Embedded Systems Lab by AIC and BiiL Center</category>
    <id>BIIL_MTB-101_GPIO_LED_Blink_Template</id>
-   <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-101_GPIO_LED_Blink_Template</uri>
-   <description>This template demonstrates the process of controlling an LED via GPIO on a PSoC 6 microcontroller, showcasing the LED blinking. </description>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-101_GPIO-HAL_LED_Blink_Template</uri>
+   <description>This template demonstrates the process of controlling an LED via GPIO-HAL on a PSoC 6 microcontroller, showcasing the LED blinking. </description>
    <req_capabilities>psoc6</req_capabilities>
    <versions>
      <version flow_version="2.0">
@@ -30,12 +30,12 @@
    </versions>
  </app>
 
-<!--    <app keywords="psoc6,bdhiot">
-   <name>LAB102 - USER Input and Output Controlling Part II Template</name>
+<app keywords="psoc6,bdhiot">
+   <name>LAB102 - GPIO-PDL LED Blink Template</name>
    <category>Applied Embedded Systems Lab by AIC and BiiL Center</category>
-   <id>BiiL_MTB-102_BASIC_GPIO_INTERFACING_Template</id>
-   <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_MTB_Sending_Button_Event_via_MQTT_and_MQTTs_Template</uri>
-   <description>This template show how to control USER INPUT and OUTPUT (CYBSP_USER) on evaluation kit board. </description>
+   <id>BIIL_MTB-102_GPIO-PDL_LED_Blink_Template</id>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-102_GPIO-PDL_LED_Blink_Template</uri>
+   <description>This template demonstrates the process of controlling an LED via GPIO-PDL on a PSoC 6 microcontroller, showcasing the LED blinking. </description>
    <req_capabilities>psoc6</req_capabilities>
    <versions>
      <version flow_version="2.0">
@@ -43,6 +43,6 @@
        <commit>master</commit>
      </version>
    </versions>
- </app> -->
+ </app>
  
 </apps>
