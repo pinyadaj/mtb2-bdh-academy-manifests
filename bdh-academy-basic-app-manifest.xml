@@ -16,7 +16,7 @@
  </app>   
    
 <app keywords="psoc6,bdhiot">
-   <name>BIIL_MTB-101_GPIO_LED_Blink_Template</name>
+   <name>LAB101 - GPIO LED Blink Template</name>
    <category>Applied Embedded Systems Lab by AIC and BiiL Center</category>
    <id>BIIL_MTB-101_GPIO_LED_Blink_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-101_GPIO_LED_Blink_Template</uri>
