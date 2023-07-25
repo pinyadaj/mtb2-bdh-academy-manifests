@@ -49,8 +49,23 @@
    <name>Lab103 GPIO-HAL Button with LED Template</name>
    <category>Applied Embedded Systems Lab by AIC and BiiL Center</category>
    <id>BIIL_MTB-103_GPIO-HAL_Button_with_LED_Template</id>
-   <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-103_GPIO-HAL_Button_with_LED_Template.git</uri>
-   <description>This template demonstrates the process of controlling an LED via Push/Pull Button on a PSoC 6 microcontroller, showcasing Push/Pull button to Turn No/OFF LED. </description>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-103_GPIO-HAL_Button_with_LED_Template</uri>
+   <description>This template demonstrates the process of controlling an LED via GPIO-HAL Push/Pull Button on a PSoC 6 microcontroller, showcasing Push/Pull button to Turn No/OFF LED. </description>
+   <req_capabilities>psoc6</req_capabilities>
+   <versions>
+     <version flow_version="2.0">
+       <num>Latest 1.X release</num>
+       <commit>master</commit>
+     </version>
+   </versions>
+ </app>
+
+<app keywords="psoc6,bdhiot">
+   <name>Lab104 GPIO-PDL Button with LED Template</name>
+   <category>Applied Embedded Systems Lab by AIC and BiiL Center</category>
+   <id>BIIL_MTB-104_GPIO-PDL_Button_with_LED_Template</id>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-104_GPIO-PDL_Button_with_LED_Template</uri>
+   <description>This template demonstrates the process of controlling an LED via GPIO-PDL Push/Pull Button on a PSoC 6 microcontroller, showcasing Push/Pull button to Turn No/OFF LED. </description>
    <req_capabilities>psoc6</req_capabilities>
    <versions>
      <version flow_version="2.0">
