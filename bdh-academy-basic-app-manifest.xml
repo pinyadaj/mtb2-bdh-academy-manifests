@@ -75,10 +75,35 @@
    </versions>
  </app>
 
+<app keywords="psoc6,bdhiot">
+   <name>Lab105 GPIO Interrupt via HAL Template</name>
+   <category>Applied Embedded Systems Lab by AIC and BiiL Center</category>
+   <id>BIIL_MTB-105_GPIO_Button_Interrupt_via_HAL_Template</id>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-105_GPIO_Button_Interrupt_via_HAL_Template</uri>
+   <description>This template demonstrates the process of controlling an LED via GPIO Button interrupt via HAL on a PSoC 6 microcontroller, showcasing Push/Pull button to toggle LED. </description>
+   <req_capabilities>psoc6</req_capabilities>
+   <versions>
+     <version flow_version="2.0">
+       <num>Latest 1.X release</num>
+       <commit>master</commit>
+     </version>
+   </versions>
+ </app>
 
+<app keywords="psoc6,bdhiot">
+   <name>Lab106 GPIO Interrupt via PDL Template</name>
+   <category>Applied Embedded Systems Lab by AIC and BiiL Center</category>
+   <id>BIIL_MTB-106_GPIO_Button_Interrupt_via_PDL_Template</id>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-106_GPIO_Button_Interrupt_via_PDL_Template</uri>
+   <description>This template demonstrates the process of controlling an LED via GPIO Button interrupt via PDL on a PSoC 6 microcontroller, showcasing Push/Pull button to toggle LED. </description>
+   <req_capabilities>psoc6</req_capabilities>
+   <versions>
+     <version flow_version="2.0">
+       <num>Latest 1.X release</num>
+       <commit>master</commit>
+     </version>
+   </versions>
+ </app>
 
-   
-
-   
  
 </apps>
