@@ -141,7 +141,7 @@
    <category>Applied Embedded Systems Lab by AIC and BiiL Center</category>
    <id>BIIL_MTB-109_LED_Brightness_using_PWM_via_HAL_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-109_LED_Brightness_using_PWM_via_HAL_Template</uri>
-   <description>This template demonstrates the process of controlling LED brightness using PWM via PDL on a PSoC 6 microcontroller. </description>
+   <description>This template demonstrates the process of controlling LED brightness using PWM via HAL on a PSoC 6 microcontroller. </description>
    <req_capabilities>psoc6</req_capabilities>
    <versions>
      <version flow_version="2.0">
