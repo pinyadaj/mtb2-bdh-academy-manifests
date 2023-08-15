@@ -171,7 +171,7 @@
    <category>Applied Embedded Systems Lab by AIC and BiiL Center</category>
    <id>BIIL_MTB-111_Basic_OLED_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-111_Basic_OLED_Template</uri>
-   <description>This template demonstrates the process of controlling an LED brightness using PWM via PDL on a PSoC 6 microcontroller. </description>
+   <description>This template demonstrates the process of using basic OLED on a PSoC 6 microcontroller. </description>
    <req_capabilities>psoc6</req_capabilities>
    <versions>
      <version flow_version="2.0">
@@ -181,6 +181,19 @@
    </versions>
  </app>
    
-
+<app keywords="psoc6,bdhiot">
+   <name>Lab112 ADC POT OLED Template</name>
+   <category>Applied Embedded Systems Lab by AIC and BiiL Center</category>
+   <id>BIIL_MTB-112_ADC_POT_OLED_Template</id>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-112_ADC_POT_OLED_Template</uri>
+   <description>This template demonstrates the process of reading a potentiometer sensor value through an Analog-to-Digital Converter (ADC) and Display on OLED.</description>
+   <req_capabilities>psoc6</req_capabilities>
+   <versions>
+     <version flow_version="2.0">
+       <num>Latest 1.X release</num>
+       <commit>master</commit>
+     </version>
+   </versions>
+ </app>
  
 </apps>
