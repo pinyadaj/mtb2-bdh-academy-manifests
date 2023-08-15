@@ -166,6 +166,20 @@
    </versions>
  </app>
 
+<app keywords="psoc6,bdhiot">
+   <name>Lab111 OLED Template</name>
+   <category>Applied Embedded Systems Lab by AIC and BiiL Center</category>
+   <id>BIIL_MTB-111_OLED_Template</id>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/CYP_SENXIV_OLED</uri>
+   <description>This template demonstrates the process of controlling an LED brightness using PWM via PDL on a PSoC 6 microcontroller. </description>
+   <req_capabilities>psoc6</req_capabilities>
+   <versions>
+     <version flow_version="2.0">
+       <num>Latest 1.X release</num>
+       <commit>master</commit>
+     </version>
+   </versions>
+ </app>
    
 
  
