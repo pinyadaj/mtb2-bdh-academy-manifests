@@ -169,7 +169,7 @@
 <app keywords="psoc6,bdhiot">
    <name>Lab111 OLED Template</name>
    <category>Applied Embedded Systems Lab by AIC and BiiL Center</category>
-   <id>BIIL_MTB-111_OLED_Template</id>
+   <id>BIIL_MTB-111_Basic_OLED_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-111_Basic_OLED_Template</uri>
    <description>This template demonstrates the process of controlling an LED brightness using PWM via PDL on a PSoC 6 microcontroller. </description>
    <req_capabilities>psoc6</req_capabilities>
