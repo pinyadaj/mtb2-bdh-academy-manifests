@@ -212,6 +212,21 @@
  </app>
 
 <app keywords="psoc6,bdhiot">
+   <name>BIIL MTB-CAPSENSE Buttons and Slider Template</name>
+   <category>Applied Embedded Systems Lab by AIC and BiiL Center</category>
+   <id>BIIL_MTB-CAPSENSE_Buttons_and_Slider_Template</id>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB_CAPSENSE_Buttons_and_Slider_Template</uri>
+   <description>This template illustrates the process of monitoring and reading input from CapSense buttons and sliders with LED and Capsense Tunner.</description>
+   <req_capabilities>psoc6</req_capabilities>
+   <versions>
+     <version flow_version="2.0">
+       <num>Latest 1.X release</num>
+       <commit>master</commit>
+     </version>
+   </versions>
+ </app>
+
+<app keywords="psoc6,bdhiot">
    <name>BIIL MTB-CAPSENSE Buttons and Slider FreeRTOS Template</name>
    <category>Applied Embedded Systems Lab by AIC and BiiL Center</category>
    <id>BIIL_MTB-CAPSENSE_Buttons_and_Slider_FreeRTOS_Template</id>
