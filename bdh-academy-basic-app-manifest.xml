@@ -241,6 +241,36 @@
    </versions>
  </app>
 
+<app keywords="psoc6,bdhiot">
+   <name>BIIL MTB-XENSIV Sensor Data Display with OLED Template</name>
+   <category>Applied Embedded Systems Lab by AIC and BiiL Center</category>
+   <id>BIIL_MTB-XENSIV_Sensor_Data_Display_with_OLED_Template</id>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/CYP_SENXIV_OLED</uri>
+   <description>This template serves as a foundational structure for integrating the XENSIV sensor data readings into your modus project. It is designed to streamline the process of monitoring and displaying real-time temperature and air pressure data on an OLED screen. Utilize this template to quickly set up and launch your application, offering a seamless way to visualize environmental data through a continuous feedback system.</description>
+   <req_capabilities>psoc6</req_capabilities>
+   <versions>
+     <version flow_version="2.0">
+       <num>Latest 1.X release</num>
+       <commit>master</commit>
+     </version>
+   </versions>
+ </app>
+   
+<app keywords="psoc6,bdhiot">
+   <name>BIIL MTB-Potentiometer Value Display with OLED Template</name>
+   <category>Applied Embedded Systems Lab by AIC and BiiL Center</category>
+   <id>BIIL_MTB-Potentiometer_Value_Display_with_OLED_Template</id>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/CYP_ADC_POTEN</uri>
+   <description>This template facilitates the integration of potentiometer value readings into your modus project, enabling real-time monitoring and display on an OLED screen. Follow the easy steps to program your function within the main loop to start tracking potentiometer adjustments seamlessly. Ideal for projects requiring continuous monitoring and data visualization through the OLED display.</description>
+   <req_capabilities>psoc6</req_capabilities>
+   <versions>
+     <version flow_version="2.0">
+       <num>Latest 1.X release</num>
+       <commit>master</commit>
+     </version>
+   </versions>
+ </app>
+
    
  
 </apps>
