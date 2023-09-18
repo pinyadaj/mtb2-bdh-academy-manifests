@@ -300,7 +300,22 @@
      </version>
    </versions>
  </app>
-   
+
+<app keywords="psoc6,bdhiot">
+   <name>BIIL MTB-Reading ADC via HAL with Potentiometer Template</name>
+   <category>Applied Embedded Systems Lab by AIC and BiiL Center</category>
+   <id>BIIL_MTB-Reading_ADC_using_HAL_with_Potentiometer-Template</id>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_MTB_ADC_using_HAL_with_Potentiometer</uri>
+   <description>This template provide a starting point for getting ADC via HAL with Potentiometer (P10_6).</description>
+   <req_capabilities>psoc6</req_capabilities>
+   <versions>
+     <version flow_version="2.0">
+       <num>Latest 1.X release</num>
+       <commit>master</commit>
+     </version>
+   </versions>
+ </app>
+
    
  
 </apps>
