@@ -271,6 +271,36 @@
    </versions>
  </app>
 
+<app keywords="psoc6,bdhiot">
+   <name>BIIL MTB-Motion Sensors GUI Integration via Serial Studio Template</name>
+   <category>Applied Embedded Systems Lab by AIC and BiiL Center</category>
+   <id>BIIL_MTB-Motion_Sensors_GUI_Integration_via_Serial_Studio_Template</id>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_Orientation_BMX160_Sensor_template</uri>
+   <description>This template is your gateway to developing a modus project that integrates seamlessly with the Serial Studio program for real-time motion sensor data monitoring. Designed to streamline your project's development, it allows for the quick setup and launch of a graphical user interface to visualize and analyze motion sensor data effectively. Harness the power of this template to create a dynamic and interactive monitoring system, enhancing your project's data representation and analysis capabilities through a user-friendly GUI.</description>
+   <req_capabilities>psoc6</req_capabilities>
+   <versions>
+     <version flow_version="2.0">
+       <num>Latest 1.X release</num>
+       <commit>master</commit>
+     </version>
+   </versions>
+ </app>
+
+<app keywords="psoc6,bdhiot">
+   <name>BIIL MTB-Reading XENSIV-DPS-3XX Pressure Sensor Template</name>
+   <category>Applied Embedded Systems Lab by AIC and BiiL Center</category>
+   <id>BIIL_MTB-Reading_XENSIV-DPS-3XX_Pressure_Sensor_Template</id>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_XENSIV-DPS-3XX_pressure_sensor_template</uri>
+   <description>This template provide a starting point for getting XENSIV-DPS-3XX Pressure Sensor.</description>
+   <req_capabilities>psoc6</req_capabilities>
+   <versions>
+     <version flow_version="2.0">
+       <num>Latest 1.X release</num>
+       <commit>master</commit>
+     </version>
+   </versions>
+ </app>
+   
    
  
 </apps>
