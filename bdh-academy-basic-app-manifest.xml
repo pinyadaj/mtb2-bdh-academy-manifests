@@ -332,5 +332,20 @@
    </versions>
  </app>
 
+<app keywords="psoc6,bdhiot">
+   <name>BIIL MTB-LAB FreeRTOS with BDH Shell WiFi-MQTTTemplate</name>
+   <category>Applied Embedded Systems Lab by AIC and BiiL Center</category>
+   <id>BIIL_MTB-LAB_FreeRTOS_with_BDH_Shell-WiFi_-_MQTT-Template</id>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/FreeRTOS_with_BDH_Shell-WiFi_-_MQTT_Template</uri>
+   <description>This template provides a starting point for using NodeRed to read the sensor Psoc6 vai MQTT.</description>
+   <req_capabilities>psoc6</req_capabilities>
+   <versions>
+     <version flow_version="2.0">
+       <num>Latest 1.X release</num>
+       <commit>master</commit>
+     </version>
+   </versions>
+ </app>
+
  
 </apps>
