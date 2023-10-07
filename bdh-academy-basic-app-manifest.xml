@@ -2,7 +2,7 @@
    
 <app keywords="psoc6,bdhiot">
    <name>LAB100 - Hello World with LED Blinking Template</name>
-   <category>Practical Embedded Systems and IoT (Level 1 & Level 2) by BDH and BiiL Center</category>
+   <category>Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH and BiiL Center</category>
    <id>BiiL_MTB-100_BASIC_GPIO_INTERFING_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-100_Hello_World_and_LED_Blinking_Programming_Template</uri>
    <description>This template show how to print the message Hello world and control a LED blinking. </description>
@@ -17,7 +17,7 @@
    
 <app keywords="psoc6,bdhiot">
    <name>LAB101 - GPIO-HAL LED Blink Template</name>
-   <category>Practical Embedded Systems and IoT (Level 1 & Level 2) by BDH and BiiL Center</category>
+   <category>Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH and BiiL Center</category>
    <id>BIIL_MTB-101_GPIO_LED_Blink_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-101_GPIO-HAL_LED_Blink_Template</uri>
    <description>This template demonstrates the process of controlling an LED via GPIO-HAL on a PSoC 6 microcontroller, showcasing the LED blinking. </description>
@@ -32,7 +32,7 @@
 
 <app keywords="psoc6,bdhiot">
    <name>LAB102 - GPIO-PDL LED Blink Template</name>
-   <category>Practical Embedded Systems and IoT (Level 1 & Level 2) by BDH and BiiL Center</category>
+   <category>Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH and BiiL Center</category>
    <id>BIIL_MTB-102_GPIO-PDL_LED_Blink_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-102_GPIO-PDL_LED_Blink_Template</uri>
    <description>This template demonstrates the process of controlling an LED via GPIO-PDL on a PSoC 6 microcontroller, showcasing the LED blinking. </description>
@@ -47,7 +47,7 @@
    
 <app keywords="psoc6,bdhiot">
    <name>LAB103 GPIO-HAL Button with LED Template</name>
-   <category>Practical Embedded Systems and IoT (Level 1 & Level 2) by BDH and BiiL Center</category>
+   <category>Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH and BiiL Center</category>
    <id>BIIL_MTB-103_GPIO-HAL_Button_with_LED_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-103_GPIO-HAL_Button_with_LED_Template</uri>
    <description>This template demonstrates the process of controlling an LED via GPIO-HAL Push/Pull Button on a PSoC 6 microcontroller, showcasing Push/Pull button to Turn No/OFF LED. </description>
@@ -62,7 +62,7 @@
 
 <app keywords="psoc6,bdhiot">
    <name>LAB104 GPIO-PDL Button with LED Template</name>
-   <category>Practical Embedded Systems and IoT (Level 1 & Level 2) by BDH and BiiL Center</category>
+   <category>Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH and BiiL Center</category>
    <id>BIIL_MTB-104_GPIO-PDL_Button_with_LED_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-104_GPIO-PDL_Button_with_LED_Template</uri>
    <description>This template demonstrates the process of controlling an LED via GPIO-PDL Push/Pull Button on a PSoC 6 microcontroller, showcasing Push/Pull button to Turn No/OFF LED. </description>
@@ -77,7 +77,7 @@
 
 <app keywords="psoc6,bdhiot">
    <name>LAB105 GPIO Interrupt via HAL Template</name>
-   <category>Practical Embedded Systems and IoT (Level 1 & Level 2) by BDH and BiiL Center</category>
+   <category>Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH and BiiL Center</category>
    <id>BIIL_MTB-105_GPIO_Button_Interrupt_via_HAL_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-105_GPIO_Button_Interrupt_via_HAL_Template</uri>
    <description>This template demonstrates the process of controlling an LED via GPIO Button interrupt via HAL on a PSoC 6 microcontroller, showcasing Push/Pull button to toggle LED. </description>
@@ -92,7 +92,7 @@
 
 <app keywords="psoc6,bdhiot">
    <name>LAB106 GPIO Interrupt via PDL Template</name>
-   <category>Practical Embedded Systems and IoT (Level 1 & Level 2) by BDH and BiiL Center</category>
+   <category>Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH and BiiL Center</category>
    <id>BIIL_MTB-106_GPIO_Button_Interrupt_via_PDL_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-106_GPIO_Button_Interrupt_via_PDL_Template</uri>
    <description>This template demonstrates the process of controlling an LED via GPIO Button interrupt via PDL on a PSoC 6 microcontroller, showcasing Push/Pull button to toggle LED. </description>
@@ -107,7 +107,7 @@
 
 <app keywords="psoc6,bdhiot">
    <name>LAB107 Read potentiometer sensor value via an ADC HAL Template</name>
-   <category>Practical Embedded Systems and IoT (Level 1 & Level 2) by BDH and BiiL Center</category>
+   <category>Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH and BiiL Center</category>
    <id>BIIL_MTB-107_Read_potentiometer_sensor_value_via_an_ADC_HAL_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-107_Read_potentiometer_sensor_value_via_an_ADC_HAL_Template</uri>
    <description>This template demonstrates the process of reading a potentiometer sensor value through an Analog-to-Digital Converter (ADC) using a Hardware Abstraction Layer (HAL) on a PSoC 6 microcontroller.</description>
@@ -122,7 +122,7 @@
 
 <app keywords="psoc6,bdhiot">
    <name>LAB108 Read potentiometer sensor value via an ADC PDL Template</name>
-   <category>Practical Embedded Systems and IoT (Level 1 & Level 2) by BDH and BiiL Center</category>
+   <category>Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH and BiiL Center</category>
    <id>BIIL_MTB-108_Read_potentiometer_sensor_value_via_an_ADC_PDL_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-108_Read_potentiometer_sensor_value_via_an_ADC_PDL_Template</uri>
    <description>This template demonstrates the process of reading a potentiometer sensor value through an Analog-to-Digital Converter (ADC) using a Peripheral Driver Library (PDL) on a PSoC 6 microcontroller.</description>
@@ -138,7 +138,7 @@
    
 <app keywords="psoc6,bdhiot">
    <name>Lab109 LED Brightness using PWM via HAL Template</name>
-   <category>Practical Embedded Systems and IoT (Level 1 & Level 2) by BDH and BiiL Center</category>
+   <category>Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH and BiiL Center</category>
    <id>BIIL_MTB-109_LED_Brightness_using_PWM_via_HAL_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-109_LED_Brightness_using_PWM_via_HAL_Template</uri>
    <description>This template demonstrates the process of controlling LED brightness using PWM via HAL on a PSoC 6 microcontroller. </description>
@@ -153,7 +153,7 @@
 
 <app keywords="psoc6,bdhiot">
    <name>LAB110 LED Brightness using PWM via PDL Template</name>
-   <category>Practical Embedded Systems and IoT (Level 1 & Level 2) by BDH and BiiL Center</category>
+   <category>Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH and BiiL Center</category>
    <id>BIIL_MTB-110_LED_Brightness_using_PWM_via_PDL_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-110_LED_Brightness_using_PWM_via_PDL_Template</uri>
    <description>This template demonstrates the process of controlling an LED brightness using PWM via PDL on a PSoC 6 microcontroller. </description>
@@ -168,7 +168,7 @@
 
 <app keywords="psoc6,bdhiot">
    <name>LAB111 OLED Template</name>
-   <category>Practical Embedded Systems and IoT (Level 1 & Level 2) by BDH and BiiL Center</category>
+   <category>Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH and BiiL Center</category>
    <id>BIIL_MTB-111_Basic_OLED_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-111_Basic_OLED_Template</uri>
    <description>This template demonstrates the process of using basic OLED on a PSoC 6 microcontroller. </description>
@@ -183,7 +183,7 @@
    
 <app keywords="psoc6,bdhiot">
    <name>LAB112 ADC POT OLED Template</name>
-   <category>Practical Embedded Systems and IoT (Level 1 & Level 2) by BDH and BiiL Center</category>
+   <category>Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH and BiiL Center</category>
    <id>BIIL_MTB-112_ADC_POT_OLED_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-112_ADC_POT_OLED_Template</uri>
    <description>This template demonstrates the process of reading a potentiometer sensor value through an Analog-to-Digital Converter (ADC) and Display on OLED.</description>
@@ -198,7 +198,7 @@
 
 <app keywords="psoc6,bdhiot">
    <name>BDH Shell for LED Blinking and Capsense Slider Template</name>
-   <category>Practical Embedded Systems and IoT (Level 1 & Level 2) by BDH and BiiL Center</category>
+   <category>Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH and BiiL Center</category>
    <id>BIIL_MTB-BDH_Shell_for_LED_Blinking_and_Capsense_Slider_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_MTB_BDH-SHELL_with_Blinking_and_CAPSENSE</uri>
    <description>This template demonstrates the process of reading a potentiometer sensor value through an Analog-to-Digital Converter (ADC) and Display on OLED.</description>
@@ -213,7 +213,7 @@
 
 <app keywords="psoc6,bdhiot">
    <name>BIIL MTB-CAPSENSE Buttons and Slider Template</name>
-   <category>Practical Embedded Systems and IoT (Level 1 & Level 2) by BDH and BiiL Center</category>
+   <category>Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH and BiiL Center</category>
    <id>BIIL_MTB-CAPSENSE_Buttons_and_Slider_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB_CAPSENSE_Buttons_and_Slider_Template</uri>
    <description>This template illustrates the process of monitoring and reading input from CapSense buttons and sliders with LED and Capsense Tunner.</description>
@@ -228,7 +228,7 @@
 
 <app keywords="psoc6,bdhiot">
    <name>BIIL MTB-CAPSENSE Buttons and Slider FreeRTOS Template</name>
-   <category>Practical Embedded Systems and IoT (Level 1 & Level 2) by BDH and BiiL Center</category>
+   <category>Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH and BiiL Center</category>
    <id>BIIL_MTB-CAPSENSE_Buttons_and_Slider_FreeRTOS_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB_CAPSENSE_Buttons_and_Slider_FreeRTOS_Template</uri>
    <description>This template illustrates how to utilize FreeRTOS to facilitate the process of monitoring and reading input from CapSense buttons and sliders.</description>
@@ -243,7 +243,7 @@
 
 <app keywords="psoc6,bdhiot">
    <name>BIIL MTB-XENSIV Sensor Data Display with OLED Template</name>
-   <category>Practical Embedded Systems and IoT (Level 1 & Level 2) by BDH and BiiL Center</category>
+   <category>Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH and BiiL Center</category>
    <id>BIIL_MTB-XENSIV_Sensor_Data_Display_with_OLED_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/CYP_SENXIV_OLED</uri>
    <description>This template serves as a foundational structure for integrating the XENSIV sensor data readings into your modus project. It is designed to streamline the process of monitoring and displaying real-time temperature and air pressure data on an OLED screen. Utilize this template to quickly set up and launch your application, offering a seamless way to visualize environmental data through a continuous feedback system.</description>
@@ -258,7 +258,7 @@
    
 <app keywords="psoc6,bdhiot">
    <name>BIIL MTB-Potentiometer Value Display with OLED Template</name>
-   <category>Practical Embedded Systems and IoT (Level 1 & Level 2) by BDH and BiiL Center</category>
+   <category>Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH and BiiL Center</category>
    <id>BIIL_MTB-Potentiometer_Value_Display_with_OLED_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/CYP_ADC_POTEN</uri>
    <description>This template facilitates the integration of potentiometer value readings into your modus project, enabling real-time monitoring and display on an OLED screen. Follow the easy steps to program your function within the main loop to start tracking potentiometer adjustments seamlessly. Ideal for projects requiring continuous monitoring and data visualization through the OLED display.</description>
@@ -273,7 +273,7 @@
 
 <app keywords="psoc6,bdhiot">
    <name>BIIL MTB-Motion Sensors GUI Integration via Serial Studio Template</name>
-   <category>Practical Embedded Systems and IoT (Level 1 & Level 2) by BDH and BiiL Center</category>
+   <category>Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH and BiiL Center</category>
    <id>BIIL_MTB-Motion_Sensors_GUI_Integration_via_Serial_Studio_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_Orientation_BMX160_Sensor_template</uri>
    <description>This template is your gateway to developing a modus project that integrates seamlessly with the Serial Studio program for real-time motion sensor data monitoring. Designed to streamline your project's development, it allows for the quick setup and launch of a graphical user interface to visualize and analyze motion sensor data effectively. Harness the power of this template to create a dynamic and interactive monitoring system, enhancing your project's data representation and analysis capabilities through a user-friendly GUI.</description>
@@ -288,7 +288,7 @@
 
 <app keywords="psoc6,bdhiot">
    <name>BIIL MTB-Reading XENSIV-DPS-3XX Pressure Sensor Template</name>
-   <category>Practical Embedded Systems and IoT (Level 1 & Level 2) by BDH and BiiL Center</category>
+   <category>Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH and BiiL Center</category>
    <id>BIIL_MTB-Reading_XENSIV-DPS-3XX_Pressure_Sensor_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_XENSIV-DPS-3XX_pressure_sensor_template</uri>
    <description>This template provide a starting point for getting XENSIV-DPS-3XX Pressure Sensor.</description>
@@ -303,7 +303,7 @@
 
 <app keywords="psoc6,bdhiot">
    <name>BIIL MTB-Reading ADC via HAL with Potentiometer Template</name>
-   <category>Practical Embedded Systems and IoT (Level 1 & Level 2) by BDH and BiiL Center</category>
+   <category>Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH and BiiL Center</category>
    <id>BIIL_MTB-Reading_ADC_using_HAL_with_Potentiometer-Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_MTB_ADC_using_HAL_with_Potentiometer</uri>
    <description>This template provide a starting point for getting ADC via HAL with Potentiometer (P10_6).</description>
@@ -319,7 +319,7 @@
 
 <app keywords="psoc6,bdhiot">
    <name>BIIL MTB-LAB NodeRed Read sensor psoc6 via mqtt Template</name>
-   <category>Practical Embedded Systems and IoT (Level 1 & Level 2) by BDH and BiiL Center</category>
+   <category>Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH and BiiL Center</category>
    <id>BIIL_MTB-LAB_NodeRed_Read_sensor_psoc6_via_mqtt-Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/LAB_NodeRed_Read_sensor_psoc6_via_mqtt</uri>
    <description>This template provide a starting point for using NodeRed to read the sensor Psoc6 vai MQTT.</description>
@@ -334,7 +334,7 @@
 
 <app keywords="psoc6,bdhiot">
    <name>BIIL MTB-LAB FreeRTOS with BDH Shell WiFi-MQTTTemplate</name>
-   <category>Practical Embedded Systems and IoT (Level 1 & Level 2) by BDH and BiiL Center</category>
+   <category>Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH and BiiL Center</category>
    <id>BIIL_MTB-LAB_FreeRTOS_with_BDH_Shell-WiFi_-_MQTT-Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/FreeRTOS_with_BDH_Shell-WiFi_-_MQTT_Template</uri>
    <description>This template provides a starting point for using NodeRed to read the sensor Psoc6 vai MQTT.</description>
