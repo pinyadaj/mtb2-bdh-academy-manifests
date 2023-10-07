@@ -1,7 +1,7 @@
 <apps version="2.0">
    
 <app keywords="psoc6,bdhiot">
-   <name>LAB100 - Hello World with LED Blinking Template</name>
+   <name>LEVEL1_LAB100 - Hello World with LED Blinking Template</name>
    <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
    <id>BiiL_MTB-100_BASIC_GPIO_INTERFING_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-100_Hello_World_and_LED_Blinking_Programming_Template</uri>
@@ -16,7 +16,7 @@
  </app>   
    
 <app keywords="psoc6,bdhiot">
-   <name>LAB101 - GPIO-HAL LED Blink Template</name>
+   <name>LEVEL1_LAB101 - GPIO-HAL LED Blink Template</name>
    <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
    <id>BIIL_MTB-101_GPIO_LED_Blink_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-101_GPIO-HAL_LED_Blink_Template</uri>
@@ -31,7 +31,7 @@
  </app>
 
 <app keywords="psoc6,bdhiot">
-   <name>LAB102 - GPIO-PDL LED Blink Template</name>
+   <name>LEVEL1_LAB102 - GPIO-PDL LED Blink Template</name>
    <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
    <id>BIIL_MTB-102_GPIO-PDL_LED_Blink_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-102_GPIO-PDL_LED_Blink_Template</uri>
@@ -46,7 +46,7 @@
  </app>
    
 <app keywords="psoc6,bdhiot">
-   <name>LAB103 GPIO-HAL Button with LED Template</name>
+   <name>LEVEL1_LAB103 - GPIO-HAL Button with LED Template</name>
    <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
    <id>BIIL_MTB-103_GPIO-HAL_Button_with_LED_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-103_GPIO-HAL_Button_with_LED_Template</uri>
@@ -61,7 +61,7 @@
  </app>
 
 <app keywords="psoc6,bdhiot">
-   <name>LAB104 GPIO-PDL Button with LED Template</name>
+   <name>LEVEL1_LAB104 - GPIO-PDL Button with LED Template</name>
    <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
    <id>BIIL_MTB-104_GPIO-PDL_Button_with_LED_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-104_GPIO-PDL_Button_with_LED_Template</uri>
@@ -76,7 +76,7 @@
  </app>
 
 <app keywords="psoc6,bdhiot">
-   <name>LAB105 GPIO Interrupt via HAL Template</name>
+   <name>LEVEL1_LAB105 - GPIO Interrupt via HAL Template</name>
    <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
    <id>BIIL_MTB-105_GPIO_Button_Interrupt_via_HAL_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-105_GPIO_Button_Interrupt_via_HAL_Template</uri>
@@ -91,7 +91,7 @@
  </app>
 
 <app keywords="psoc6,bdhiot">
-   <name>LAB106 GPIO Interrupt via PDL Template</name>
+   <name>LEVEL1_LAB106 - GPIO Interrupt via PDL Template</name>
    <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
    <id>BIIL_MTB-106_GPIO_Button_Interrupt_via_PDL_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-106_GPIO_Button_Interrupt_via_PDL_Template</uri>
@@ -106,7 +106,7 @@
  </app>
 
 <app keywords="psoc6,bdhiot">
-   <name>LAB107 Read potentiometer sensor value via an ADC HAL Template</name>
+   <name>LEVEL1_LAB107 - Read potentiometer sensor value via an ADC HAL Template</name>
    <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
    <id>BIIL_MTB-107_Read_potentiometer_sensor_value_via_an_ADC_HAL_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-107_Read_potentiometer_sensor_value_via_an_ADC_HAL_Template</uri>
@@ -121,7 +121,7 @@
  </app>
 
 <app keywords="psoc6,bdhiot">
-   <name>LAB108 Read potentiometer sensor value via an ADC PDL Template</name>
+   <name>LEVEL1_LAB108 - Read potentiometer sensor value via an ADC PDL Template</name>
    <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
    <id>BIIL_MTB-108_Read_potentiometer_sensor_value_via_an_ADC_PDL_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-108_Read_potentiometer_sensor_value_via_an_ADC_PDL_Template</uri>
@@ -137,7 +137,7 @@
 
    
 <app keywords="psoc6,bdhiot">
-   <name>Lab109 LED Brightness using PWM via HAL Template</name>
+   <name>LEVEL1_LAB109 - LED Brightness using PWM via HAL Template</name>
    <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
    <id>BIIL_MTB-109_LED_Brightness_using_PWM_via_HAL_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-109_LED_Brightness_using_PWM_via_HAL_Template</uri>
@@ -152,7 +152,7 @@
  </app>
 
 <app keywords="psoc6,bdhiot">
-   <name>LAB110 LED Brightness using PWM via PDL Template</name>
+   <name>LEVEL1_LAB110 - LED Brightness using PWM via PDL Template</name>
    <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
    <id>BIIL_MTB-110_LED_Brightness_using_PWM_via_PDL_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-110_LED_Brightness_using_PWM_via_PDL_Template</uri>
@@ -167,7 +167,7 @@
  </app>
 
 <app keywords="psoc6,bdhiot">
-   <name>LAB111 OLED Template</name>
+   <name>LEVEL1_LAB111 - OLED Template</name>
    <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
    <id>BIIL_MTB-111_Basic_OLED_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-111_Basic_OLED_Template</uri>
@@ -182,7 +182,7 @@
  </app>
    
 <app keywords="psoc6,bdhiot">
-   <name>LAB112 ADC POT OLED Template</name>
+   <name>LEVEL1_LAB112 - ADC POTEN OLED Template</name>
    <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
    <id>BIIL_MTB-112_ADC_POT_OLED_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-112_ADC_POT_OLED_Template</uri>
