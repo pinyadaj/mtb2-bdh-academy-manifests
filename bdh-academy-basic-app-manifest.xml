@@ -197,7 +197,7 @@
  </app>
 
 <app keywords="psoc6,bdhiot">
-   <name>BDH Shell for LED Blinking and Capsense Slider Template</name>
+   <name>LEVEL2_LAB201 - BDH Shell for LED Blinking and Capsense Slider Template</name>
    <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
    <id>BIIL_MTB-BDH_Shell_for_LED_Blinking_and_Capsense_Slider_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_MTB_BDH-SHELL_with_Blinking_and_CAPSENSE</uri>
@@ -212,7 +212,7 @@
  </app>
 
 <app keywords="psoc6,bdhiot">
-   <name>BIIL MTB-CAPSENSE Buttons and Slider Template</name>
+   <name>LEVEL2_LAB202 - MTB-CAPSENSE Buttons and Slider Template</name>
    <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
    <id>BIIL_MTB-CAPSENSE_Buttons_and_Slider_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB_CAPSENSE_Buttons_and_Slider_Template</uri>
@@ -227,7 +227,7 @@
  </app>
 
 <app keywords="psoc6,bdhiot">
-   <name>BIIL MTB-CAPSENSE Buttons and Slider FreeRTOS Template</name>
+   <name>LEVEL2_LAB203 - MTB-CAPSENSE Buttons and Slider FreeRTOS Template</name>
    <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
    <id>BIIL_MTB-CAPSENSE_Buttons_and_Slider_FreeRTOS_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB_CAPSENSE_Buttons_and_Slider_FreeRTOS_Template</uri>
@@ -242,7 +242,7 @@
  </app>
 
 <app keywords="psoc6,bdhiot">
-   <name>BIIL MTB-XENSIV Sensor Data Display with OLED Template</name>
+   <name>LEVEL2_LAB204 - MTB-XENSIV Sensor Data Display with OLED Template</name>
    <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
    <id>BIIL_MTB-XENSIV_Sensor_Data_Display_with_OLED_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/CYP_SENXIV_OLED</uri>
@@ -257,7 +257,7 @@
  </app>
    
 <app keywords="psoc6,bdhiot">
-   <name>BIIL MTB-Potentiometer Value Display with OLED Template</name>
+   <name>LEVEL2_LAB205 - MTB-Potentiometer Value Display with OLED Template</name>
    <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
    <id>BIIL_MTB-Potentiometer_Value_Display_with_OLED_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/CYP_ADC_POTEN</uri>
@@ -272,7 +272,7 @@
  </app>
 
 <app keywords="psoc6,bdhiot">
-   <name>BIIL MTB-Motion Sensors GUI Integration via Serial Studio Template</name>
+   <name>LEVEL2_LAB206 - MTB-Motion Sensors GUI Integration via Serial Studio Template</name>
    <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
    <id>BIIL_MTB-Motion_Sensors_GUI_Integration_via_Serial_Studio_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_Orientation_BMX160_Sensor_template</uri>
@@ -287,7 +287,7 @@
  </app>
 
 <app keywords="psoc6,bdhiot">
-   <name>BIIL MTB-Reading XENSIV-DPS-3XX Pressure Sensor Template</name>
+   <name>LEVEL2_LAB207 - MTB-Reading XENSIV-DPS-3XX Pressure Sensor Template</name>
    <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
    <id>BIIL_MTB-Reading_XENSIV-DPS-3XX_Pressure_Sensor_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_XENSIV-DPS-3XX_pressure_sensor_template</uri>
@@ -302,7 +302,7 @@
  </app>
 
 <app keywords="psoc6,bdhiot">
-   <name>BIIL MTB-Reading ADC via HAL with Potentiometer Template</name>
+   <name>LEVEL2_LAB208 - MTB-Reading ADC via HAL with Potentiometer Template</name>
    <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
    <id>BIIL_MTB-Reading_ADC_using_HAL_with_Potentiometer-Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_MTB_ADC_using_HAL_with_Potentiometer</uri>
@@ -318,7 +318,7 @@
 
 
 <app keywords="psoc6,bdhiot">
-   <name>BIIL MTB-LAB NodeRed Read sensor psoc6 via mqtt Template</name>
+   <name>LEVEL2_LAB209 - NodeRed Read sensor psoc6 via mqtt Template</name>
    <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
    <id>BIIL_MTB-LAB_NodeRed_Read_sensor_psoc6_via_mqtt-Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/LAB_NodeRed_Read_sensor_psoc6_via_mqtt</uri>
@@ -333,7 +333,7 @@
  </app>
 
 <app keywords="psoc6,bdhiot">
-   <name>BIIL MTB-LAB FreeRTOS with BDH Shell WiFi-MQTTTemplate</name>
+   <name>LEVEL2_LAB210 - FreeRTOS with BDH Shell WiFi-MQTTTemplate</name>
    <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
    <id>BIIL_MTB-LAB_FreeRTOS_with_BDH_Shell-WiFi_-_MQTT-Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/FreeRTOS_with_BDH_Shell-WiFi_-_MQTT_Template</uri>
