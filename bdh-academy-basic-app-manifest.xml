@@ -272,7 +272,7 @@
  </app>
 
 <app keywords="psoc6,bdhiot">
-   <name>LEVEL2_LAB207 - Motion Sensors GUI Integration via Serial Studio Template</name>
+   <name>LEVEL2_LAB208 - Motion Sensors GUI Integration via Serial Studio Template</name>
    <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
    <id>BIIL_MTB-Motion_Sensors_GUI_Integration_via_Serial_Studio_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_Orientation_BMX160_Sensor_template</uri>
@@ -287,7 +287,7 @@
  </app>
 
 <app keywords="psoc6,bdhiot">
-   <name>LEVEL2_LAB208 - Reading XENSIV-DPS-3XX Pressure Sensor Template</name>
+   <name>LEVEL2_LAB207 - Reading XENSIV-DPS-3XX Pressure Sensor Template</name>
    <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
    <id>BIIL_MTB-Reading_XENSIV-DPS-3XX_Pressure_Sensor_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_XENSIV-DPS-3XX_pressure_sensor_template</uri>
