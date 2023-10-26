@@ -201,7 +201,7 @@
    <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
    <id>BIIL_MTB-BDH_Shell_for_LED_Blinking_and_Capsense_Slider_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_MTB_BDH-SHELL_with_Blinking_and_CAPSENSE</uri>
-   <description>This template demonstrates the process of reading a potentiometer sensor value through an Analog-to-Digital Converter (ADC) and Display on OLED.</description>
+   <description>This template provide a starting point for BDH Shell with Infineon Capsense slider and LED task.</description>
    <req_capabilities>psoc6</req_capabilities>
    <versions>
      <version flow_version="2.0">
@@ -333,11 +333,11 @@
  </app>
 
 <app keywords="psoc6,bdhiot">
-   <name>LEVEL2_LAB210 - FreeRTOS with BDH Shell WiFi-MQTTTemplate</name>
+   <name>LEVEL2_LAB210 - FreeRTOS with BDH Shell WiFi-MQTT Template</name>
    <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
    <id>BIIL_MTB-LAB_FreeRTOS_with_BDH_Shell-WiFi_-_MQTT-Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/FreeRTOS_with_BDH_Shell-WiFi_-_MQTT_Template</uri>
-   <description>This template provides a starting point for using NodeRed to read the sensor Psoc6 vai MQTT.</description>
+   <description>This template provides a starting point for integrating FreeRTOS with BDH Shell over WiFi using MQTT.</description>
    <req_capabilities>psoc6</req_capabilities>
    <versions>
      <version flow_version="2.0">
