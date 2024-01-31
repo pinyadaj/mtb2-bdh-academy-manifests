@@ -321,7 +321,7 @@
    <name>LEVEL2_LAB209 - WiFi MQTT Client Template</name>
    <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
    <id>BIIL_MTB-LAB_WiFi_MQTT_Client_NodeRed_Read_sensor_psoc6-Template</id>
-   <uri>https://github.com/Advance-Innovation-Centre-AIC/WiFi_MQTT_and_Note_Red</uri>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/WiFi_MQTT_Client_Template</uri>
    <description>This template provide a starting point for using WiFi MQTT client.</description>
    <req_capabilities>psoc6</req_capabilities>
    <versions>
