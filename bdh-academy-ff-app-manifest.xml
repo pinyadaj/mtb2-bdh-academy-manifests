@@ -32,7 +32,7 @@
 
   <app keywords="psoc6,bdhiot">
    <name>Workshop_LAB104 - Reading ADC via HAL with Potentiometer Template</name>
-   <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
+   <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
    <id>BIIL_MTB-Workshop-Reading_ADC_using_HAL_with_Potentiometer-Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_MTB_ADC_using_HAL_with_Potentiometer</uri>
    <description>This template provide a starting point for getting ADC via HAL with Potentiometer (P10_6).</description>
@@ -47,7 +47,7 @@
 
   <app keywords="psoc6,bdhiot">
     <name>Workshop_LAB105 - Reading XENSIV-DPS-3XX Pressure Sensor Template</name>
-    <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
+    <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
     <id>BIIL_MTB-Workshop-Reading_XENSIV-DPS-3XX_Pressure_Sensor_Template</id>
     <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_XENSIV-DPS-3XX_pressure_sensor_template</uri>
     <description>This template provide a starting point for getting XENSIV-DPS-3XX Pressure Sensor.</description>
@@ -62,7 +62,7 @@
 
   <app keywords="psoc6,bdhiot">
    <name>Workshop_LAB106 - Motion Sensors GUI Integration via Serial Studio Template</name>
-   <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
+   <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
    <id>BIIL_MTB-Workshop-Motion_Sensors_GUI_Integration_via_Serial_Studio_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_Orientation_BMX160_Sensor_template</uri>
    <description>This template is your gateway to developing a modus project that integrates seamlessly with the Serial Studio program for real-time motion sensor data monitoring. Designed to streamline your project's development, it allows for the quick setup and launch of a graphical user interface to visualize and analyze motion sensor data effectively. Harness the power of this template to create a dynamic and interactive monitoring system, enhancing your project's data representation and analysis capabilities through a user-friendly GUI.</description>
@@ -77,7 +77,7 @@
 
  <app keywords="psoc6,bdhiot">
    <name>Workshop_LAB107 - OLED Template</name>
-   <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
+   <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
    <id>BIIL_MTB-Workshop-107_Basic_OLED_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-111_Basic_OLED_Template</uri>
    <description>This template demonstrates the process of using basic OLED on a PSoC 6 microcontroller. </description>
@@ -92,7 +92,7 @@
 
   <app keywords="psoc6,bdhiot">
    <name>Workshop_LAB108 - LED Brightness using PWM via HAL Template</name>
-   <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
+   <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
    <id>BIIL_MTB-Workshop-108_LED_Brightness_using_PWM_via_HAL_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-109_LED_Brightness_using_PWM_via_HAL_Template</uri>
    <description>This template demonstrates the process of controlling LED brightness using PWM via HAL on a PSoC 6 microcontroller. </description>
@@ -107,7 +107,7 @@
 
   <app keywords="psoc6,bdhiot">
    <name>Workshop_LAB109 - GPIO-HAL Button with LED Template</name>
-   <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
+   <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
    <id>BIIL_MTB-Workshop-109_GPIO-HAL_Button_with_LED_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-103_GPIO-HAL_Button_with_LED_Template</uri>
    <description>This template demonstrates the process of controlling an LED via GPIO-HAL Push/Pull Button on a PSoC 6 microcontroller, showcasing Push/Pull button to Turn No/OFF LED. </description>
