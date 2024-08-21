@@ -1,6 +1,6 @@
 <apps version="2.0">
    
-<app keywords="psoc6,bdhiot">
+  <app keywords="psoc6,bdhiot">
    <name>LEVEL1_LAB100 - Hello World with LED Blinking Template</name>
    <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
    <id>BiiL_MTB-100_BASIC_GPIO_INTERFING_Template</id>
@@ -13,9 +13,9 @@
        <commit>master</commit>
      </version>
    </versions>
- </app>  
+  </app>  
 
-   <app keywords="psoc6,bdhiot">
+  <app keywords="psoc6,bdhiot">
    <name>LEVEL2_LAB212 - Machine_learning_with_PSoC6</name>
    <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
    <id>BIIL_MTB-Machine_learning_with_PSoC6-Template</id>

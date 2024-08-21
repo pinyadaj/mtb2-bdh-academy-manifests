@@ -363,7 +363,7 @@
  </app>
 
    <app keywords="psoc6,bdhiot">
-   <name>LEVEL2_LAB212 - Machine_learning_with_PSoC6</name>
+   <name>LEVEL2_LAB212 - Machine_learning_with_PSoC6 Template</name>
    <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
    <id>BIIL_MTB-Machine_learning_with_PSoC6-Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/data_collection</uri>
