@@ -179,5 +179,20 @@
      </version>
    </versions>
   </app>
+
+  <app keywords="psoc6,bdhiot">
+   <name>PSoC-6 with BDH Platform Template</name>
+   <category>BiiL :: PSoC6 Showcases by BDH Academy (Burapha University - Infineon Innovation Launchpad, EAST Park)</category>
+   <id>mtb2-example-PSoC-6-with-BDH-Platform-template</id>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/PSoC6_Board_With_BDH_Platform</uri>
+   <description>This code example use for register PSoC6 board with BDH Platform.</description>
+   <req_capabilities>psoc6</req_capabilities>
+   <versions>
+     <version flow_version="2.0">
+       <num>Latest 1.X release</num>
+       <commit>master</commit>
+     </version>
+   </versions>
+  </app>
  
 </apps>
