@@ -121,6 +121,20 @@
  </app>
 
 
+<app keywords="psoc6,bdhiot">
+   <name>Workshop_LAB209 - WiFi MQTT Client Template</name>
+   <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
+   <id>BIIL_MTB-Workshop-LAB_WiFi_MQTT_Client_NodeRed_Read_sensor_psoc6-Template</id>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/WiFi_MQTT_Client_Template</uri>
+   <description>This template provide a starting point for using WiFi MQTT client.</description>
+   <req_capabilities>psoc6</req_capabilities>
+   <versions>
+     <version flow_version="2.0">
+       <num>Latest 1.X release</num>
+       <commit>master</commit>
+     </version>
+   </versions>
+ </app>
 
 
 
