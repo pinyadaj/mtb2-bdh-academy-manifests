@@ -137,11 +137,11 @@
  </app>
 
   <app keywords="psoc6,bdhiot">
-   <name>PSoC-6 with MQTT WiFi via BDH Platform Template</name>
+   <name>PSoC-6 with BDH Platform Template</name>
    <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
-   <id>PSoC-6_with_MQTT_WiFi_via_BDH_Platform_Template</id>
+   <id>mtb2-example-PSoC-6-with-BDH-Platform-template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/PSoC6_Board_With_BDH_Platform</uri>
-   <description>This code example use for register PSoC6 board with BDH Platform and stream sensors data through mqtt.</description>
+   <description>This code example use for register PSoC6 board with BDH Platform.</description>
    <req_capabilities>psoc6</req_capabilities>
    <versions>
      <version flow_version="2.0">
