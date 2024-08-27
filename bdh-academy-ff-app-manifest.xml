@@ -1,9 +1,9 @@
 <apps version="2.0">
    
   <app keywords="psoc6,bdhiot">
-   <name>Workshop000 - Hello World Template</name>
+   <name>Hello World Template</name>
    <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
-   <id>BiiL_MTB-Workshop000_Hello_World_Template</id>
+   <id>BiiL_MTB_Hello_World_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/Lab_Hello_world</uri>
    <description>This template show how to print the message Hello world. </description>
    <req_capabilities>psoc6</req_capabilities>
